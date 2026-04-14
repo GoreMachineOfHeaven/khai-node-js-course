@@ -1,0 +1,5 @@
+$kind: http-request
+name: http://localhost:3000/users
+url: http://localhost:3000/users
+method: GET
+order: 1776184460572
